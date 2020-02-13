@@ -1,6 +1,6 @@
 # The International Space Station (ISS) Scout
 
-Scout the Station here! https://coro121.github.io/The-ISS-Scout/
+Scout the Station here! https://ort-cloud.github.io/The-ISS-Scout/
 
 ## Summary
 
